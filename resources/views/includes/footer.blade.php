@@ -24,7 +24,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12 xs-text-center xs-margin-20px-bottom display-table">
                     <div class="display-table-cell vertical-align-middle">
                         <span class="d-block">301 The Greenhouse,<br>Custard Factory, London, E2 8DY.</span>
-                        <a href="#" title="sales@domain.com">sales@domain.com</a>   |   +44 (0) 123 456 7890
+                        <a href="#" title="sales@domain.com">info@yourdomain.com</a>   |   +44 (0) 123 456 7890
                     </div>
                 </div>
                 <!-- end contact information -->
@@ -50,7 +50,7 @@
         <!-- start copyright -->
         <div class="footer-bottom border-top border-color-medium-dark-gray padding-40px-top xs-padding-30px-top">
             <div class="row">
-                <div class="col-md-6 col-sm-6 col-xs-12 text-left text-small xs-text-center">Laravel Bootstrap Theme</div>
+                <div class="col-md-6 col-sm-6 col-xs-12 text-left text-small xs-text-center">Laravel Bootstrap4 Theme</div>
                 <div class="col-md-6 col-sm-6 col-xs-12 text-right text-small xs-text-center">&copy; 2018 Powered by <a href="#!" target="_blank" title="">Bootstrap Theme</a></div>
             </div>
         </div>
