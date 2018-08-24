@@ -18,6 +18,10 @@ class PagesController extends Controller
     	return view('contact');
     }
 
+     public function getContact() {
+        return view('services');
+    }
+
     public function getReservation() {
     	return view('reservation');
     }

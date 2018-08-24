@@ -14,7 +14,7 @@
               <a class="nav-link" href="/about">About Us</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Specs</a>
+              <a class="nav-link" href="/services">Services</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">FAQ</a>
